@@ -1,0 +1,6 @@
+Projet 7 - OpenClassRoom
+Parcours Datascientist
+
+Lien vers le Dashboard
+https://share.streamlit.io/jbsainteve/oc_p7_dasboard_v2/main/app.py
+
